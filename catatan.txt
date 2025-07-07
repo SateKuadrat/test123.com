@@ -1,0 +1,28 @@
+1. Full Dark Elegant
+Background utama: #121212 (hitam kebiruan, almost black)
+
+Elemen konten: #1E1E1E atau #222 (abu-abu gelap)
+
+Teks utama: #EEEEEE atau #F5F5F5 (putih sedikit warm)
+
+Aksen garis/ border: #333 atau #444
+
+padding: 100px 50px;
+  background-image: url('images/background.jpg');
+  background-size: cover;
+  background-position: center;
+  color: #fff; /* Biar teks kelihatan */
+  text-align: center;
+
+    background-image: url(asus-rog-f.jpg);
+  background-size: cover;                 
+  background-position: center;            
+  background-repeat: no-repeat; 
+  background-position-y: -250px;
+
+
+
+  transition: transform 0.5s ease-in-out;
+
+  transform: scale(1.5,1.5);
+  cursor: pointer;
